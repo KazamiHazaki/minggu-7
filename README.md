@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-"# minggu-7"
+
+# minggu-7
 * $data = $hasil->fetch(PDO::FETCH_ASSOC); : merubah data yang
   dieksekusi ke dalam bentuk array
 
@@ -28,7 +28,5 @@ Landscape
   hasil pdf dengan nama laporan.pdf dan parameter kedua yaitu array
   Attachment, apabila 0 maka hanya tampil di browser dan jika 1 maka
   akan dilakukan proses download
-=======
-# minggu-7
-Tugas dan latihan
->>>>>>> e3e00376f590e763d8ba9db1faf7d68be53fb8de
+
+
